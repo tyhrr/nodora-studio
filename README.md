@@ -5,15 +5,15 @@ A personal portfolio / studio site for Alan Salva (NODORA). Built with plain HTM
 ## Run it locally
 
 ```bash
-git clone https://github.com/tyhrr/About-Me-exercise.git
-cd About-Me-exercise
+git clone https://github.com/tyhrr/nodora-studio.git
+cd nodora-studio
 # open index.html in your browser
 ```
 
 ## Project layout
 
 ```
-About-Me-exercise/
+nodora-studio/
 ├── index.html
 └── assets/
     ├── styles/    # main stylesheet
